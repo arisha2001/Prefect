@@ -1,0 +1,8 @@
+pipelines.py
+setup.py
+pipelines.egg-info/PKG-INFO
+pipelines.egg-info/SOURCES.txt
+pipelines.egg-info/dependency_links.txt
+pipelines.egg-info/entry_points.txt
+pipelines.egg-info/requires.txt
+pipelines.egg-info/top_level.txt
